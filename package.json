@@ -1,8 +1,9 @@
 {
-  "name": "ir-black-k-syntax",
+  "name": "black-syntax",
   "theme": "syntax",
-  "version": "0.2.3",
-  "description": "A light-on-dark color syntax theme for Atom",
+  "version": "0.0.0",
+  "description":
+    "A light-on-dark color syntax theme for Atom forked from ir-black-k-syntax theme.",
   "keywords": [
     "syntax",
     "theme",
