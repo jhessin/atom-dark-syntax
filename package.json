@@ -1,7 +1,7 @@
 {
   "name": "dark-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A light-on-dark color syntax theme for Atom forked from ir-black-k-syntax theme.",
   "keywords": [
     "syntax",
