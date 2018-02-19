@@ -14,7 +14,7 @@
     "black",
     "dark"
   ],
-  "repository": "git@github.com:jhessin/atom-dark-syntax.git",
+  "repository": "https://github.com/jhessin/atom-dark-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
