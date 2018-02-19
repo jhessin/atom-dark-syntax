@@ -1,5 +1,5 @@
 {
-  "name": "black-syntax",
+  "name": "dark-syntax",
   "theme": "syntax",
   "version": "0.0.0",
   "description":
@@ -11,9 +11,10 @@
     "ir_black",
     "ir black",
     "ir",
-    "black"
+    "black",
+    "dark"
   ],
-  "repository": "git@github.com:jhessin/black-syntax.git",
+  "repository": "git@github.com:jhessin/atom-dark-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
