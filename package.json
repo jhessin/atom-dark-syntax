@@ -13,7 +13,7 @@
     "ir",
     "black"
   ],
-  "repository": "https://github.com/ksaynice/ir-black-K-syntax",
+  "repository": "git@github.com:jhessin/black-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
